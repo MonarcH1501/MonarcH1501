@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🎓 **Computer Science Student** majoring in Software Development (Web & Mobile)  
-💻 **Junior Web Developer** at one of the best schools in my region  
+🎓 **Computer Science Student** majoring in Software Development (Web & Mobile)  at Institut Teknologi dan Bisnis Sabda Setia
+💻 **Junior Web Developer** at Yayasan Gereja Protestan Kampung Bali (Sekolah Kristen Immanuel) 
 🌏 Based in Indonesia
 
 ---
