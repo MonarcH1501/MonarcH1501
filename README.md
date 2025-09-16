@@ -20,16 +20,6 @@ I'm passionate about building robust web and mobile solutions. Currently, I'm di
 
 ---
 
-## 🌟 Featured Projects
-
-- [**Ticketing-System**](https://github.com/MonarcH1501/Ticketing-System):  
-  Designed and developed an internal ticketing management system to optimize inter-departmental workflow and request handling for my current office.
-
-- [**Portfolio**](https://github.com/MonarcH1501/portfolio):  
-  My personal website showcases my technical skills, experience, and projects.
-
----
-
 ## ✍️ Writing & Novels
 
 Beyond coding, I love to read and write novels. My works are published on platforms like Wattpad, Webnovel, and NovelToon:
