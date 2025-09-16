@@ -28,9 +28,6 @@ I'm passionate about building robust web and mobile solutions. Currently, I'm di
 - [**Portfolio**](https://github.com/MonarcH1501/portfolio):  
   My personal website showcases my technical skills, experience, and projects.
 
-- [**zula-reborn-flash-cracked**](https://github.com/MonarcH1501/zula-reborn-flash-cracked):  
-  A project exploring the revival of classic Flash-based games.
-
 ---
 
 ## ✍️ Writing & Novels
