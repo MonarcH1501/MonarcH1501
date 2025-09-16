@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about building robust web and mobile solutions. Currently, I'm diving deep into PHP and JavaScript, specializing in frameworks like **Laravel** and **React**. As a junior web developer, I help streamline digital processes for my school, focusing on practical solutions with real impact.
+I'm passionate about building robust web and mobile solutions. Currently, I'm diving deep into PHP and JavaScript, specializing in frameworks like **Laravel**,**React**,**Flutter*. As a junior web developer, I help streamline digital processes for my school, focusing on practical solutions with real impact.
 
 ---
 
